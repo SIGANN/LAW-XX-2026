@@ -1,7 +1,6 @@
 # LAW XX Website (Pelican)
 
 This repository hosts the sources for the 20th Linguistic Annotation Workshop website.
-It mirrors the Pelican + AsciiDoc toolchain from `lgessler/` so we can reuse the same theme, plugins, and deployment workflow.
 
 ## Project layout
 
@@ -21,11 +20,8 @@ The legacy LAW XIX static site still lives under `LAW-XIX-2025/` for reference.
 
 ## Deployment
 
-Use the same `ghp-import` flow as `lgessler/`:
-
 ```bash
 ghp-import output -b gh-pages
 ```
 
 Then push the `gh-pages` branch to GitHub.
-Replace the placeholder SITEURL in `pelicanconf.py` once the final GitHub Pages URL is known.
