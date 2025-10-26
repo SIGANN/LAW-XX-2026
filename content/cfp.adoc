@@ -1,0 +1,41 @@
+= Call for Papers
+:date: 2025-10-26
+:summary: LAW XX call for papers
+
+This page will host the official LAW XX call for papers.
+Fill in the finalized information once the program chairs publish the CFP wording.
+
+== Themes & Topics
+
+Provide a short paragraph summarizing the workshop's scope followed by topical bullets.
+
+* Placeholder for linguistic annotation topics (syntax, semantics, discourse, etc.).
+* Placeholder for data, tools, and annotation methodologies of interest.
+* Placeholder for shared task or special theme, if any.
+
+== Submission Types
+
+[cols="1,1,2", options="header"]
+|===
+|Category | Length | Notes
+|Long papers | TBD pages | Provide exact length + references policy.
+|Short papers | TBD pages | Specify length and differences from long papers.
+|Demo description | TBD pages | Mention required supplementary materials.
+|Shared task/system papers | TBD pages | Clarify template or constraints if different.
+|===
+
+== Submission Instructions
+
+1. LAW XX will use **TBD submission site** (e.g., SoftConf or ACL Rolling Review).
+2. Describe whether ARR reviews are accepted and what metadata needs to be provided.
+3. Include anonymization + supplementary material policies here when known.
+4. Note accessibility or DEI statements that authors must include, if any.
+
+== Important Dates
+
+Reuse or link to the master timeline once the committee publishes it.
+Include timezone (e.g., Anywhere on Earth) and clarify whether deadlines are firm.
+
+== Questions
+
+Use `law-program-chairs@example.com` for now, and replace this alias with the real contact when ready.

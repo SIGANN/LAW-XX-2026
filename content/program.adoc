@@ -1,0 +1,41 @@
+= Program & Schedule
+:date: 2025-10-26
+:summary: LAW XX schedule overview
+
+Replace all TBD entries with the confirmed program once available.
+
+== Daily Schedule (Template)
+
+[cols=">1,7", options="header"]
+|===
+|Time | Session
+|09:00--09:30 | Opening remarks (insert speakers + housekeeping reminders)
+|09:30 | Keynote 1 — talk title TBD
+|10:30 | Coffee break
+|11:00 | Paper Session A — list paper IDs or titles when ready
+|12:30 | Lunch
+|14:00 | Paper Session B — placeholder theme
+|15:30 | Break
+|16:00 | Panel / Invited talk
+|17:30 | Closing and announcements
+|===
+
+Duplicate the table per workshop day if LAW spans multiple days.
+
+== Accepted Papers by Session
+
+Use subsections per thematic session to keep things organized.
+
+=== Session A: Placeholder Theme
+
+* Paper ID TBD — Placeholder title (Authors TBD)
+* ...
+
+=== Session B: Placeholder Theme
+
+* Paper ID TBD — Placeholder title (Authors TBD)
+
+== Proceedings & Slides
+
+* Link to ACL Anthology entry: **TBD**.
+* Link to shared slide folder: **TBD**.
