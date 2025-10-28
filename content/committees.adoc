@@ -80,5 +80,5 @@
 * Amir Zeldes, _Georgetown University_
 * Winnie Huiheng Zeng, _The Hong Kong Polytechnic University_
 * Deniz Zeyrek, _Middle East Technical University_
-* Wei Zhou,	_Bosch Center for Artificial Intelligence and University of Augsburg_
+* Wei Zhou, _Bosch Center for Artificial Intelligence and University of Augsburg_
 * Heike Zinsmeister, _University of Hamburg_
