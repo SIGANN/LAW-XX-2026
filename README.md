@@ -1,24 +1,26 @@
-# LAW XX Website (Pelican)
+# LAW XX Website
 
-This repository hosts the sources for the 20th Linguistic Annotation Workshop website.
+This repository hosts the sources for the LAW-XX (20th Linguistic Annotation Workshop) website.
 
-## Project layout
+## Layout
 
-- `content/` – AsciiDoc pages for Home, CFP, Committee, Invited Speakers, Program, and Accepted Papers. Everything is stubbed with clear TODOs so editors know what to fill in.
-- `plugins/` – Local copies of the AsciiDoc reader and bibliography helper used by `lgessler/`.
-- `themes/academic/` – Theme used for rendering.
-- `pelicanconf.py` – Pelican configuration customized for LAW XX.
-- `requirements.txt` – Python dependencies (Pelican, ghp-import, AsciiDoc tooling, etc.).
-
-The legacy LAW XIX static site still lives under `LAW-XIX-2025/` for reference.
+- `content/` – `.adoc` sources for pages on the site
+- `plugins/` – internal, used for parsing `.adoc` files
+- `themes/` – styles and base HTML templates. References in `pelicanconf.py`. `themes/lawxx` is used for this year.
+- `pelicanconf.py` – Pelican configuration.
 
 ## Local development
 
 1. Create a virtualenv and install dependencies: `pip install -r requirements.txt`.
-2. Build the site: `pelican content -s pelicanconf.py -o output`.
+2. Build the site: `pelican content -s pelicanconf.py -o output` (or just `pelican`).
 3. Preview locally with a simple server, e.g., `python -m http.server --directory output 8000`.
 
 ## Deployment
+
+Any change to `main` will trigger an automatic update to the website.
+(See `.github/`.)
+
+This should not be necessary, but to manually update the `gh-pages` branch:
 
 ```bash
 ghp-import output -b gh-pages
