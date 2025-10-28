@@ -8,7 +8,7 @@ SITENAME = 'LAW XX: The 20th Linguistic Annotation Workshop'
 SITEURL = ''  # TODO: update once the final GitHub Pages URL is known
 
 WORKSHOP_TITLE = 'The 20th Linguistic Annotation Workshop'
-WORKSHOP_TAGLINE = 'Co-located venue and dates TBD — update once confirmed.'
+WORKSHOP_TAGLINE = 'Co-located with ACL 2026 in San Diego'
 WORKSHOP_LOGO = 'static/images/logo.svg'
 WORKSHOP_CONTACT = 'lgessler+law@iu.edu'
 
@@ -45,9 +45,9 @@ MENUITEMS = (
     ('Home', '/index.html'),
     ('Call for Papers', '/cfp.html'),
     ('Program', '/program.html'),
-    ('Committee', '/committee.html'),
-    ('Invited Speakers', '/invited.html'),
     ('Accepted Papers', '/accepted.html'),
+    ('Invited Speakers', '/invited.html'),
+    ('Committees', '/committees.html'),
 )
 
 CATEGORY_SAVE_AS = ''

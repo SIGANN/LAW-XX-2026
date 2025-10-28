@@ -1,0 +1,84 @@
+= LAW XX | Committees
+:date: 2025-10-26
+:summary: LAW XX | Committees
+
+++++
+<h1>Comittees</h1>
+++++
+
+== Program Chairs
+* Yang Janet Liu, _University of Pittsburgh_
+* Luke Gessler, _Indiana University Bloomington_
+
+== Organizing Committee
+* Amir Zeldes, _Georgetown University_
+* Ines Rehbein, _Mannheim University_
+
+== Program Committee
+* Omri Abend, _Hebrew University of Jerusalem_
+* Berfin Aktas,	_University of Potsdam_
+* Melanie Andresen, _University of Stuttgart_
+* Aditya Bhargava, _University of Toronto_
+* Claire Bonial, _Army Research Laboratory_
+* Miriam Butt, _University of Konstanz_
+* Marie Candito, _Université Paris Cité_
+* Emmanuele Chersoni, _The Hong Kong Polytechnic University_
+* Christian Chiarcos, _University of Augsburg_
+* Kathryn Conger, _University of Colorado Boulder_
+* Daniel Dakota, _Indiana University_
+* Stefanie Dipper, _Ruhr University Bochum_
+* Lucia Donatelli, _Vrije Universiteit Amsterdam_
+* Jonathan Dunn, _University of Canterbury_
+* Markus Egg, _Humboldt University of Berlin_
+* Federico Fancellu, _3M Health Information Services_
+* Pablo Faria, _University of Campinas_
+* Annemarie Friedrich, _University of Augsburg_
+* Kim Gerdes, _Paris-Saclay University_
+* Jinghang Gu, _The Hong Kong Polytechnic University_
+* Nizar Habash, _New York University Abu Dhabi_
+* Udo Hahn, _Friedrich Schiller University Jena_
+* Andrea Horbach, _FernUni Hagen_
+* Chu-Ren Huang, _Hong Kong Polytechnic University_
+* Jena D. Hwang, _Allen Institute for AI_
+* Nancy Ide, _Brandeis University_
+* René Knaebel, _University of Potsdam_
+* Michael Kranzlein, _Georgetown University_
+* Sandra Kübler, _Indiana University Bloomington_
+* Lukas Lange, _Bosch Center for Artificial Intelligence_
+* Ekaterina Lapshinova-Koltunski, _University of Hildesheim_
+* Els Lefever, _LT3, Ghent University_
+* Lori Levin, _Carnegie Mellon University_
+* Katja Markert, _Heidelberg University_
+* Marie-Catherine de Marneffe, _FNRS, UCLouvain, The Ohio State University_
+* Adam Meyers, _New York University_
+* Philippe Muller, _IRIT, _University of Toulouse_
+* Anna Nedoluzhko, _Charles University Prague_
+* Simon Ostermann, _German Research Centre for Artificial Intelligence_
+* Alexis Palmer, _University of Colorado Boulder_
+* Antonio Pareja-Lora, _SIC, UCM/OEG, UPM_
+* Siyao Peng, _Ludwig Maximilian University of Munich_
+* Barbara Plank, _Ludwig Maximilian University of Munich_
+* Massimo Poesio, _Queen Mary University of London_
+* Sameer Pradhan, _LDC, Cemantix_
+* James Pustejovsky, _Brandeis University_
+* Ines Rehbein, _Mannheim University_
+* Michael Roth, _University of Stuttgart_
+* Josef Ruppenhofer, _The Fern Universität Hagen_
+* Robin Schaefer, _University of Potsdam_
+* Nathan Schneider, _Georgetown University_
+* Djamé Seddah, _Inria Paris_
+* Ludovic Tanguy, _University of Toulouse 2_
+* Joel Tetreault, _Dataminr, Inc._
+* Katrin Tomanek, _Open Table_
+* Lilian Diana Awuor Wanzare, _Maseno University_
+* Bonnie Webber, _University of Edinburgh_
+* Michael Wiegand, _University of Klagenfurt_
+* Andreas Witt, _Leibniz Institute for the German Language_
+* Fei Xia, _University of Washington_
+* Nianwen Xue, _Brandeis University_
+* Mohammad Yeghaneh Abkenar, _University of Potsdam_
+* Amir Zeldes, _Georgetown University_
+* Winnie Huiheng Zeng, _The Hong Kong Polytechnic University_
+* Deniz Zeyrek, _Middle East Technical University_
+* Wei Zhou,	_Bosch Center for Artificial Intelligence and University of Augsburg_
+* Heike Zinsmeister, _University of Hamburg_

@@ -1,25 +1,13 @@
-= Accepted Papers
+= LAW XX | Accepted Papers
 :date: 2025-10-26
-:summary: LAW XX accepted contributions
+:summary: LAW XX | Accepted Papers
 
-Use this page to list accepted papers, demos, and shared task reports once decisions are final.
+_To be announced_
 
-== Paper List Template
 
-[cols="1,2,2", options="header"]
-|===
-|Paper ID | Title | Authors
-|TBD-01 | Placeholder title | Author list TBD
-|TBD-02 | Placeholder title | Author list TBD
-|===
-
-Add ARR metadata, downloadable PDFs, and presentation assignments once available.
-
-== Awards
-
-Reserve this section for best paper / best demo announcements.
-
-== Camera-ready Instructions
-
-Summarize any LAW-specific instructions that supplement the main conference guidelines.
-If nothing special is needed, replace this note with a sentence pointing back to the CFP.
+// [cols="1,2,2", options="header"]
+// |===
+// |Paper ID | Title | Authors
+// |TBD-01 | Placeholder title | Author list TBD
+// |TBD-02 | Placeholder title | Author list TBD
+// |===

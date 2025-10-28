@@ -1,41 +1,96 @@
-= Call for Papers
+= LAW XX | Call for Papers
 :date: 2025-10-26
-:summary: LAW XX call for papers
+:summary: LAW XX | Call for Papers
 
-This page will host the official LAW XX call for papers.
-Fill in the finalized information once the program chairs publish the CFP wording.
+++++
+<h1>Call for Papers: The 20th Linguistic Annotation Workshop (LAW-XX)</h1>
+++++
 
-== Themes & Topics
+LAW-XX will be the 20th annual meeting endorsed by the ACL and ELRA Special Interest Group for Annotation (SIGANN).
+It will take place in July 2026 at ACL in San Diego, United States of America.
+Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
+Annotated corpora are also a major supporting source of information for unsupervised methods, multitask learning, and evaluation of both NLP tools and theories about language within and outside of linguistics.
+LAW-XX will provide a forum for presentation and discussion of innovative research on all aspects of linguistic annotation, including creation/evaluation of annotation schemes, methods for automatic and manual annotation, use and evaluation of annotation software and frameworks, representation of linguistic data and annotations, semi-supervised “human in the loop” methods of annotation, crowd-sourcing approaches, and more.
+LAW-XX will also provide a forum for annotation researchers to work towards standardization, best practices, and interoperability of annotation information and software.
 
-Provide a short paragraph summarizing the workshop's scope followed by topical bullets.
+LAW-XX will be hybrid, allowing both in-person and virtual presentations.
 
-* Placeholder for linguistic annotation topics (syntax, semantics, discourse, etc.).
-* Placeholder for data, tools, and annotation methodologies of interest.
-* Placeholder for shared task or special theme, if any.
+== Special Theme: Errors in Annotation
 
-== Submission Types
+The special theme of LAW-XX is **Errors in Annotation**.
+In addition to LAW's general topics, we specifically invite submissions on the following topics:
 
-[cols="1,1,2", options="header"]
-|===
-|Category | Length | Notes
-|Long papers | TBD pages | Provide exact length + references policy.
-|Short papers | TBD pages | Specify length and differences from long papers.
-|Demo description | TBD pages | Mention required supplementary materials.
-|Shared task/system papers | TBD pages | Clarify template or constraints if different.
-|===
-
-== Submission Instructions
-
-1. LAW XX will use **TBD submission site** (e.g., SoftConf or ACL Rolling Review).
-2. Describe whether ARR reviews are accepted and what metadata needs to be provided.
-3. Include anonymization + supplementary material policies here when known.
-4. Note accessibility or DEI statements that authors must include, if any.
+* Annotation error detection
+* Annotation error correction
+* Error type classification
+* Error detection and correction in crowd-sourced annotations
+* Errors in LLM-generated annotations
 
 == Important Dates
 
-Reuse or link to the master timeline once the committee publishes it.
-Include timezone (e.g., Anywhere on Earth) and clarify whether deadlines are firm.
+All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
-== Questions
+* *Submission deadline*: TBD
+* *Notification of acceptance*: TBD
+* *Camera-ready papers due*: TBD
+* *Workshop Date*: TBD
 
-Use `law-program-chairs@example.com` for now, and replace this alias with the real contact when ready.
+== Submission
+
+We welcome submissions of long and short papers, posters, and demonstrations relating to the special theme or any aspect of linguistic annotation, including:
+
+* Annotation procedures
+** Innovative automated and manual strategies for annotation
+** Machine learning and knowledge-based methods for automation of corpus annotation
+** Creation, maintenance, and interactive exploration of annotation structures and annotated data
+* Annotation evaluation
+** Inter-annotator agreement and other evaluation metrics and strategies
+** Qualitative evaluation of linguistic representations
+** Innovative means to evaluate annotation quality
+* Annotation access and use
+** Representation formats/structures for annotations of different phenomena, especially annotations* at multiple levels, and means to explore/manipulate them
+* Linguistic considerations for merging annotations of distinct phenomena
+* Annotation schemes, guidelines and standards
+** New and innovative annotation schemes, comparison of annotation schemes
+** Methodologies and resources for annotation scheme development
+** Best practices for annotation procedures and/or development and documentation of annotation schemes
+** Interoperability of annotation formats and/or frameworks among different systems as well as different tasks, frameworks, modalities, and languages
+* Results from the application and evaluation of standards for linguistic annotation
+** Annotation software and frameworks
+** Development, evaluation and/or innovative use of annotation software frameworks
+
+Submissions should report original and unpublished research on topics of interest to the workshop. We also invite substantiated position papers, in particular with regard to our special theme.
+Accepted papers are expected to be presented at the workshop (either in-person or virtually) and will be published in the workshop proceedings.
+They should emphasize obtained results rather than intended work, and should indicate clearly the state of completion of the reported results.
+
+A paper accepted for presentation at the workshop must not be or have been presented at any other meeting with publicly available proceedings.
+
+Long/short paper submissions must use https://github.com/acl-org/acl-style-files[the official ACL style templates].
+Long papers must not exceed eight (8) pages of content.
+Short papers and demonstration papers must not exceed four (4) pages of content.
+References do not count against these limits.
+
+Limitation and ethical consideration sections are optional and do not count against these limits as well.
+
+Note: The supplementary material (for data, code etc.) does not count towards the page limit and should not be included in paper, but should be submitted separately using the appropriate field on the submission website.
+The appendix also does not count against the page limit but should not include essential details needed to understand/review the paper (appendices can contain details such as hyperparameters, formulas, proofs, and tables that are informative but not critical to the understanding of the paper).
+All submissions must be in PDF format.
+
+Reviewing of papers will be double-blind.
+Therefore, the paper must not include the authors' names and affiliations or self-references that reveal the authors’ identity--e.g., "We previously showed (Chen et al., 2024) ..." should be replaced with citations such as "Chen et al. (2024) previously showed ...".
+Papers that do not conform to these requirements will be rejected without review.
+
+Authors of papers that have been or will be submitted to other meetings or publications must provide this information to the workshop co-chairs (lgessler+law@iu.edu). Authors of accepted papers must notify the program chairs within 10 days of acceptance if the paper is withdrawn for any reason.
+
+Following https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy[the ACL and ARR policies], there is no anonymity period requirement.
+
+== Preparing the camera-ready version
+
+For the final version of your paper, make sure that you remove the "review" option from the latex source file (`\usepackage[review]{acl}` -> `\usepackage{acl}`).
+
+Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address the reviewers' comments.
+
+Please make sure to upload your final paper by **TBD**. Submissions uploaded after that date will not be included in the proceedings.
+
+If you have any questions, please feel free to contact the program co-chairs at lgessler+law@iu.edu.
+

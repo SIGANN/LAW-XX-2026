@@ -1,24 +1,5 @@
-= Invited Speakers
+= LAW XX | Invited Speakers
 :date: 2025-10-26
-:summary: LAW XX invited talks and panels
+:summary: LAW XX | Invited Speakers
 
-List keynote and invited speakers here once confirmed.
-
-== Keynote Speakers
-
-[cols="1,2", options="header"]
-|===
-|Speaker | Placeholder Abstract / Bio Summary
-|Speaker TBD 1 | Add title, affiliation, and 2-3 sentence abstract once available.
-|Speaker TBD 2 | Same as above.
-|===
-
-== Panels or Special Sessions
-
-If LAW XX includes a panel, roundtable, or special session, document it here.
-Use subsections per event (title, moderator, participants, description).
-
-== Media
-
-Reserve this section for speaker headshots or talk recordings.
-Assets should be placed under `content/static/` and referenced with `image::` directives.
+_To be announced_

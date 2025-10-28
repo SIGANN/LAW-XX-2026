@@ -20,7 +20,7 @@ body {
   margin: 0;
   font-family: var(--body-font);
   background-color: var(--cream-base);
-  color: #2d1c1c;
+  color: #000;
   line-height: 1.5;
 }
 
@@ -75,6 +75,7 @@ table, th, td, img {
   max-width: 1100px;
   display: flex;
   gap: 30px;
+  align-items: center;
 }
 
 #navigation li {
@@ -135,13 +136,16 @@ h4 {
 
 p {
   font-size: 16px;
-  margin: 0 0 20px;
+  margin: 20px;
 }
 
 li {
   font-size: 16px;
   line-height: 22px;
-  margin-bottom: 8px;
+}
+
+li > p {
+  margin: 8px 0;
 }
 
 a {

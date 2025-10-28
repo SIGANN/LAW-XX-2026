@@ -1,67 +1,23 @@
-= LAW XX (2026?)
+= LAW XX
 :date: 2025-10-26
-:summary: Landing page for the 20th Linguistic Annotation Workshop
+:summary: The 20th Linguistic Annotation Workshop
 
-[quote]
-____
-Update this page with the confirmed conference title, dates, and location once they are finalized.
-____
 
-== Overview
+++++
+<h1>LAW XX (2026)</h1>
+++++
 
-The 20th Linguistic Annotation Workshop (LAW XX) brings together researchers, practitioners, and resource builders who are advancing the state of linguistic annotation for NLP and allied fields.
-Add two or three short paragraphs here that describe this year's focus once the organizing committee settles on the messaging.
+Linguistic annotation of natural language corpora is the backbone of supervised methods of statistical natural language processing.
+The **L**inguistic **A**nnotation **W**orkshop (**LAW**) is the annual workshop of the **ACL and ELRA Special Interest Group on Annotation (SIGANN)**, and it provides a forum for the presentation and discussion of innovative research on all aspects of linguistic annotation, including the creation and evaluation of annotation schemes, methods for automatic and manual annotation, use and evaluation of annotation software and frameworks, representation of linguistic data and annotations, semi-supervised “human in the loop” methods of annotation, crowd-sourcing approaches, and more.
+As in the past, the LAW will provide a forum for annotation researchers to work towards standardization, best practices, and interoperability of annotation information and software.
 
 [.dates-callout]
 --
-.Key Dates at a Glance
-* *CFP out*: TBD
-* *Submission deadline*: TBD (Anywhere on Earth)
-* *Notifications*: TBD
-* *Camera-ready*: TBD
-* *Workshop*: TBD
+.Important Dates
+All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
+
+* *Submission deadline*: TBD
+* *Notification of acceptance*: TBD
+* *Camera-ready papers due*: TBD
+* *Workshop Date*: TBD
 --
-
-== Important Dates
-
-|===
-|Milestone | Placeholder Date | Notes
-
-|Call for Papers released
-|TBD
-|Replace with the official publication date.
-
-|Submission deadline
-|TBD
-|Add timezone and exact time.
-
-|Notification of acceptance
-|TBD
-|Include any rolling-notification details if relevant.
-
-|Camera-ready papers due
-|TBD
-|Specify instructions for ACL Rolling Review if applicable.
-
-|Workshop date(s)
-|TBD
-|List exact dates and whether LAW is co-located with another venue.
-|===
-
-== Venue & Registration
-
-* City + venue name: **TBD**.
-* Co-located event (if any): **TBD**.
-* Registration instructions will be linked here once the main conference opens registration.
-
-== Contact
-
-Email: `law-organizers@example.com` (placeholder). Replace with the real alias when ready.
-
-== Quick Links
-
-* `cfp.html` — Call for Papers
-* `program.html` — Program & Schedule
-* `committee.html` — Organizing & Program Committees
-* `invited.html` — Invited Speakers
-* `accepted.html` — Accepted Papers
