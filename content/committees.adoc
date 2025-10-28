@@ -51,7 +51,7 @@
 * Katja Markert, _Heidelberg University_
 * Marie-Catherine de Marneffe, _FNRS, UCLouvain, The Ohio State University_
 * Adam Meyers, _New York University_
-* Philippe Muller, _IRIT, _University of Toulouse_
+* Philippe Muller, _IRIT, University of Toulouse_
 * Anna Nedoluzhko, _Charles University Prague_
 * Simon Ostermann, _German Research Centre for Artificial Intelligence_
 * Alexis Palmer, _University of Colorado Boulder_
