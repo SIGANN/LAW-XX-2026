@@ -1,0 +1,272 @@
+/* LAW XIX-inspired styling for LAW XX */
+:root {
+  --crimson-dark: #6d0019;
+  --crimson-mid: #9e1b32;
+  --crimson-soft: #c75c65;
+  --cream-base: #f9f3eb;
+  --cream-light: #fffdf8;
+  --accent-sand: #d4b483;
+  --heading-color: #5a0f1b;
+  --link-color: #8a1224;
+  --link-hover: #b53a4a;
+  --body-font: 'Roboto', Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  background-color: var(--cream-base);
+  color: #000;
+  line-height: 1.5;
+}
+
+table, th, td, img {
+  border: 0;
+}
+
+/* Header */
+#header {
+  background: linear-gradient(var(--crimson-dark), var(--crimson-mid));
+  color: #fff;
+  border-bottom: 4px solid var(--accent-sand);
+  padding: 24px 20px 14px;
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+  gap: 30px;
+}
+
+.logo-container img {
+  max-height: 140px;
+  width: auto;
+  display: block;
+}
+
+.header-text .title {
+  font-size: 42px;
+  font-weight: bold;
+  margin: 0 0 5px;
+}
+
+.header-text .body {
+  font-size: 22px;
+  margin: 0;
+}
+
+/* Navigation */
+#subheader {
+  background-color: var(--cream-light);
+  border-bottom: 3px solid var(--crimson-mid);
+  padding: 12px 20px 14px;
+}
+
+#navigation {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1100px;
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+#navigation li {
+  font-size: 20px;
+}
+
+#navigation li a {
+  color: var(--crimson-dark);
+  text-decoration: none;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+#navigation li.active a,
+#navigation li a:hover {
+  color: var(--crimson-soft);
+}
+
+/* Content */
+#contents {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 36px 24px 70px;
+  min-height: 60vh;
+}
+
+article.page .content {
+  font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+  color: var(--heading-color);
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 20px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px 0 18px;
+}
+
+h3 {
+  font-size: 150%;
+  font-weight: bold;
+  margin: 14px 0;
+}
+
+h4 {
+  font-size: 125%;
+  font-weight: bold;
+  margin: 10px 0 4px;
+}
+
+p {
+  font-size: 16px;
+  margin: 20px;
+}
+
+li {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+li > p {
+  margin: 8px 0;
+}
+
+a {
+  color: var(--link-color);
+  font-weight: bold;
+}
+
+a:hover,
+a:visited {
+  color: var(--link-hover);
+}
+
+a.paper {
+  font-weight: normal;
+  text-decoration: none;
+}
+
+article.page table {
+  margin-top: 10px;
+  border-collapse: collapse;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+article.page th,
+article.page td {
+  padding: 10px;
+  text-align: left;
+  border: 0;
+}
+
+article.page th {
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+
+article.page table.dates td {
+  border: 1px solid var(--crimson-soft);
+  background-color: var(--cream-light);
+  font-size: 14px;
+}
+
+.dates-callout {
+  background-color: #fff8f1;
+  border-left: 4px solid var(--crimson-mid);
+  padding: 18px 22px;
+  margin: 20px 0;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.dates-callout h3,
+.dates-callout .title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: var(--heading-color);
+}
+
+.dates-callout ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.dates-callout ul li p {
+  margin-bottom: 4px;
+}
+
+.center {
+  text-align: center;
+  color: var(--link-color);
+  font-weight: bold;
+}
+
+.indent {
+  margin-left: 20px;
+}
+
+/* Footer */
+#footer {
+  border-top: 2px solid var(--crimson-dark);
+  padding: 24px 20px;
+  background: var(--cream-light);
+  font-size: 0.95em;
+}
+
+.footer-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#footer a {
+  color: var(--link-color);
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .header-text .title {
+    font-size: 32px;
+  }
+
+  #navigation {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  #navigation li {
+    font-size: 18px;
+  }
+
+  #contents {
+    padding: 20px 16px 40px;
+  }
+}
