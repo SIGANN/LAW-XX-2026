@@ -15,6 +15,9 @@
 * Ines Rehbein, _Mannheim University_
 
 == Program Committee
+_To be announced_
+
+////
 * Omri Abend, _Hebrew University of Jerusalem_
 * Berfin Aktas,	_University of Potsdam_
 * Melanie Andresen, _University of Stuttgart_
@@ -82,3 +85,4 @@
 * Deniz Zeyrek, _Middle East Technical University_
 * Wei Zhou, _Bosch Center for Artificial Intelligence and University of Augsburg_
 * Heike Zinsmeister, _University of Hamburg_
+////

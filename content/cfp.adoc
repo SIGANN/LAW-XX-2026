@@ -6,6 +6,9 @@
 <h1>Call for Papers: The 20th Linguistic Annotation Workshop (LAW-XX)</h1>
 ++++
 
+_Coming soon_
+
+////
 LAW-XX will be the 20th annual meeting endorsed by the ACL and ELRA Special Interest Group for Annotation (SIGANN).
 It will take place in July 2026 at ACL in San Diego, United States of America.
 Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
@@ -93,4 +96,4 @@ Final versions of accepted papers will be given one additional page of content (
 Please make sure to upload your final paper by **TBD**. Submissions uploaded after that date will not be included in the proceedings.
 
 If you have any questions, please feel free to contact the program co-chairs at lgessler+law@iu.edu.
-
+////
