@@ -7,22 +7,15 @@
 ++++
 
 
-////
-_Coming soon_
-////
-
-
-////
 Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
 Annotated corpora are also a major supporting source of information for unsupervised methods, multitask learning, and evaluation of both NLP tools and theories about language within and outside of linguistics.
 LAW-XX will provide a forum for presentation and discussion of innovative research on all aspects of linguistic annotation, including creation/evaluation of annotation schemes, methods for automatic and manual annotation, use and evaluation of annotation software and frameworks, representation of linguistic data and annotations, semi-supervised “human in the loop” methods of annotation, crowd-sourcing approaches, and more.
 LAW-XX will also provide a forum for annotation researchers to work towards standardization, best practices, and interoperability of annotation information and software.
-////
 
 
 == Special Theme: Errors in Annotation
 
-The special theme of LAW-XX is **Errors in Annotation**.
+The special theme of LAW XX is **Errors in Annotation**.
 In addition to LAW's general topics, we specifically invite submissions on the following topics:
 
 * Annotation error detection
@@ -36,7 +29,7 @@ In addition to LAW's general topics, we specifically invite submissions on the f
 All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
 * *Submission deadline*: March 5, 2026
-* *Pre-reviewed ARR commitment deadline: March 24, 2026
+* *Pre-reviewed ARR commitment deadline*: March 24, 2026
 * *Notification of acceptance*: April 28, 2026
 * *Camera-ready papers due*: May 12, 2026
 * *Workshop Date*: TBD

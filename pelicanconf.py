@@ -10,7 +10,7 @@ SITEURL = ''  # TODO: update once the final GitHub Pages URL is known
 WORKSHOP_TITLE = 'The 20th Linguistic Annotation Workshop'
 WORKSHOP_TAGLINE = 'Co-located with ACL 2026 in San Diego'
 WORKSHOP_LOGO = 'static/images/logo.svg'
-WORKSHOP_CONTACT = 'lgessler+law@iu.edu'
+WORKSHOP_CONTACT = 'law2026workshop@googlegroups.com'
 
 PATH = 'content'
 TIMEZONE = 'UTC'
