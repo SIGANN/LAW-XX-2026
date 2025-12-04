@@ -6,17 +6,19 @@
 <h1>Call for Papers: The 20th Linguistic Annotation Workshop (LAW-XX)</h1>
 ++++
 
-_Coming soon_
 
 ////
-LAW-XX will be the 20th annual meeting endorsed by the ACL and ELRA Special Interest Group for Annotation (SIGANN).
-It will take place in July 2026 at ACL in San Diego, United States of America.
+_Coming soon_
+////
+
+
+////
 Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
 Annotated corpora are also a major supporting source of information for unsupervised methods, multitask learning, and evaluation of both NLP tools and theories about language within and outside of linguistics.
 LAW-XX will provide a forum for presentation and discussion of innovative research on all aspects of linguistic annotation, including creation/evaluation of annotation schemes, methods for automatic and manual annotation, use and evaluation of annotation software and frameworks, representation of linguistic data and annotations, semi-supervised “human in the loop” methods of annotation, crowd-sourcing approaches, and more.
 LAW-XX will also provide a forum for annotation researchers to work towards standardization, best practices, and interoperability of annotation information and software.
+////
 
-LAW-XX will be hybrid, allowing both in-person and virtual presentations.
 
 == Special Theme: Errors in Annotation
 
@@ -33,10 +35,14 @@ In addition to LAW's general topics, we specifically invite submissions on the f
 
 All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
-* *Submission deadline*: TBD
-* *Notification of acceptance*: TBD
-* *Camera-ready papers due*: TBD
+* *Submission deadline*: March 5, 2026
+* *Pre-reviewed ARR commitment deadline: March 24, 2026
+* *Notification of acceptance*: April 28, 2026
+* *Camera-ready papers due*: May 12, 2026
 * *Workshop Date*: TBD
+
+LAW XX will be hybrid, allowing both in-person and virtual presentations.
+
 
 == Submission
 
@@ -75,15 +81,20 @@ References do not count against these limits.
 
 Limitation and ethical consideration sections are optional and do not count against these limits as well.
 
+////
 Note: The supplementary material (for data, code etc.) does not count towards the page limit and should not be included in paper, but should be submitted separately using the appropriate field on the submission website.
 The appendix also does not count against the page limit but should not include essential details needed to understand/review the paper (appendices can contain details such as hyperparameters, formulas, proofs, and tables that are informative but not critical to the understanding of the paper).
+All submissions must be in PDF format.
+////
+
+Note: The appendix also does not count against the page limit but should not include essential details needed to understand/review the paper (appendices can contain details such as hyperparameters, formulas, proofs, and tables that are informative but not critical to the understanding of the paper).
 All submissions must be in PDF format.
 
 Reviewing of papers will be double-blind.
 Therefore, the paper must not include the authors' names and affiliations or self-references that reveal the authors’ identity--e.g., "We previously showed (Chen et al., 2024) ..." should be replaced with citations such as "Chen et al. (2024) previously showed ...".
 Papers that do not conform to these requirements will be rejected without review.
 
-Authors of papers that have been or will be submitted to other meetings or publications must provide this information to the workshop co-chairs (lgessler+law@iu.edu). Authors of accepted papers must notify the program chairs within 10 days of acceptance if the paper is withdrawn for any reason.
+Authors of papers that have been or will be submitted to other meetings or publications must provide this information to the workshop program chairs (law2026workshop@googlegroups.com). Authors of accepted papers must notify the program chairs within 10 days of acceptance if the paper is withdrawn for any reason.
 
 Following https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy[the ACL and ARR policies], there is no anonymity period requirement.
 
@@ -93,7 +104,6 @@ For the final version of your paper, make sure that you remove the "review" opti
 
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address the reviewers' comments.
 
-Please make sure to upload your final paper by **TBD**. Submissions uploaded after that date will not be included in the proceedings.
+Please make sure to upload your final paper by **May 12, 2026**. Submissions uploaded after that date will not be included in the proceedings.
 
-If you have any questions, please feel free to contact the program co-chairs at lgessler+law@iu.edu.
-////
+If you have any questions, please feel free to contact the program chairs at law2026workshop@googlegroups.com.

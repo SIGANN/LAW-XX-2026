@@ -7,17 +7,23 @@
 <h1>LAW XX (2026)</h1>
 ++++
 
+
 Linguistic annotation of natural language corpora is the backbone of supervised methods of statistical natural language processing.
 The **L**inguistic **A**nnotation **W**orkshop (**LAW**) is the annual workshop of the **ACL and ELRA Special Interest Group on Annotation (SIGANN)**, and it provides a forum for the presentation and discussion of innovative research on all aspects of linguistic annotation, including the creation and evaluation of annotation schemes, methods for automatic and manual annotation, use and evaluation of annotation software and frameworks, representation of linguistic data and annotations, semi-supervised “human in the loop” methods of annotation, crowd-sourcing approaches, and more.
 As in the past, the LAW will provide a forum for annotation researchers to work towards standardization, best practices, and interoperability of annotation information and software.
+
+LAW XX will take place in July 2026 at ACL in San Diego, United States of America.
+
+
 
 [.dates-callout]
 --
 .Important Dates
 All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
-* *Submission deadline*: TBD
-* *Notification of acceptance*: TBD
-* *Camera-ready papers due*: TBD
+* *Submission deadline*: March 5, 2026
+* *Pre-reviewed ARR commitment deadline: March 24, 2026
+* *Notification of acceptance*: April 28, 2026
+* *Camera-ready papers due*: May 12, 2026
 * *Workshop Date*: TBD
 --
