@@ -61,6 +61,13 @@ We welcome submissions of long and short papers, posters, and demonstrations rel
 ** Annotation software and frameworks
 ** Development, evaluation and/or innovative use of annotation software frameworks
 
+**Direct submission link**: https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LAW
+**Pre-reviewed ARR commitment link**: https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LAW_ARR_Commitment#tab-your-consoles 
+
+Note on OpenReview's moderation policy for newly created profiles:
+- New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+- New profiles created with an institutional email will be activated automatically.
+
 Submissions should report original and unpublished research on topics of interest to the workshop. We also invite substantiated position papers, in particular with regard to our special theme.
 Accepted papers are expected to be presented at the workshop (either in-person or virtually) and will be published in the workshop proceedings.
 They should emphasize obtained results rather than intended work, and should indicate clearly the state of completion of the reported results.
