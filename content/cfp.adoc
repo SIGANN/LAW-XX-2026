@@ -63,7 +63,7 @@ We welcome submissions of long and short papers, posters, and demonstrations rel
 
 **Direct submission link**: https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LAW
 
-**Pre-reviewed ARR commitment link**: https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LAW_ARR_Commitment#tab-your-consoles 
+**Pre-reviewed ARR commitment link**: https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LAW_ARR_Commitment
 
 Note on OpenReview's moderation policy for ***newly created profiles***:
 
