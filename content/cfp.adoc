@@ -16,7 +16,9 @@ LAW-XX will also provide a forum for annotation researchers to work towards stan
 == Special Theme: Errors in Annotation
 
 The special theme of LAW XX is **Errors in Annotation**.
-In addition to LAW's general topics, we specifically invite submissions on the following topics:
+In addition to LAW’s general topics, we specifically invite submissions on the matter of addressing annotations which are in some sense objectively incorrect in their substance or omissions (c.f. Klie et al., CL 2023)—distinct from annotator disagreement (Weber-Genzel et al., ACL 2024)—and the role of error analysis in improving data quality for both human-annotated and LLM-generated datasets. As data quality becomes increasingly important (human-annotated or LLM-generated), it is essential to develop techniques or tools to quantify data quality (Swayamdipta et al., EMNLP 2020). 
+
+Potential topics covered include but are not limited to:
 
 * Annotation error detection
 * Annotation error correction
