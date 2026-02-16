@@ -17,6 +17,36 @@
 == Program Committee
 _To be announced_
 
+* Pingjun Hong
+* Michael Wiegand
+* Hakyung Sung
+* Jakob Prange
+* Andreas Säuberli
+* Karolina Zaczynska
+* Ekaterina Lapshinova-Koltunski
+* William Sheffield
+* James Pustejovsky
+* Siyao Peng
+* Sebastian Reimann
+* Ryan Soh-Eun Shim
+* Annemarie Friedrich
+* Manfred Stede
+* Bonnie Webber
+* Jessica Lin
+* Deniz Zeyrek
+* Leonie Weissweiler
+* Sandra Kübler
+* Amir Zeldes
+* Lauren Levine
+* Debopam Das
+* Antonio Pareja-Lora
+* Daniel Dakota
+* Jonathan Dunn
+* Heike Zinsmeister
+* Pablo Picasso Feliciano de Faria
+* Marie-Catherine de Marneffe
+* Sebastian Loftus
+
 ////
 * Omri Abend, _Hebrew University of Jerusalem_
 * Berfin Aktas,	_University of Potsdam_
