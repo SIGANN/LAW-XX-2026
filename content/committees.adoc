@@ -15,8 +15,6 @@
 * Ines Rehbein, _Mannheim University_
 
 == Program Committee
-_To be announced_
-
 * Pingjun Hong
 * Michael Wiegand
 * Hakyung Sung
