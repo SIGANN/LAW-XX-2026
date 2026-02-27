@@ -6,7 +6,12 @@
 <h1>Call for Papers: The 20th Linguistic Annotation Workshop (LAW-XX)</h1>
 ++++
 
-== ##DEADLINE EXTENDED TO MARCH 19, 2026 (AoE)##
+
+[.dates-callout]
+--
+.DEADLINE EXTENDED TO MARCH 19, 2026 (AoE)
+--
+
 
 Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
 Annotated corpora are also a major supporting source of information for unsupervised methods, multitask learning, and evaluation of both NLP tools and theories about language within and outside of linguistics.
