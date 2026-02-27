@@ -6,6 +6,7 @@
 <h1>Call for Papers: The 20th Linguistic Annotation Workshop (LAW-XX)</h1>
 ++++
 
+== ##DEADLINE EXTENDED TO MARCH 19, 2026 (AoE)##
 
 Linguistic annotation of natural language corpora is the backbone of supervised methods in both statistical and neural natural language processing.
 Annotated corpora are also a major supporting source of information for unsupervised methods, multitask learning, and evaluation of both NLP tools and theories about language within and outside of linguistics.
@@ -30,7 +31,7 @@ Potential topics covered include but are not limited to:
 
 All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
-* *Submission deadline*: ~~March 5, 2026~~ <span style="color:red">**March 19, 2026**</span> 
+* *Submission deadline*: ##**March 19, 2026**##
 * *Pre-reviewed ARR commitment deadline*: March 24, 2026
 * *Notification of acceptance*: April 28, 2026
 * *Camera-ready papers due*: May 12, 2026
