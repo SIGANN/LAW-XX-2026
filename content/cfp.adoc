@@ -9,7 +9,7 @@
 
 [.dates-callout]
 --
-.DEADLINE EXTENDED TO MARCH 19, 2026 (AoE)
+DEADLINE EXTENDED TO MARCH 19, 2026 (AoE)
 --
 
 
