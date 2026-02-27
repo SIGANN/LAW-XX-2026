@@ -30,11 +30,11 @@ Potential topics covered include but are not limited to:
 
 All submission deadlines are 11:59 p.m. UTC-12:00 ("anywhere on Earth").
 
-* *Submission deadline*: March 5, 2026
+* *Submission deadline*: ~~March 5, 2026~~ <span style="color:red">**March 19, 2026**</span> 
 * *Pre-reviewed ARR commitment deadline*: March 24, 2026
 * *Notification of acceptance*: April 28, 2026
 * *Camera-ready papers due*: May 12, 2026
-* *Workshop Date*: TBD
+* *Workshop Date*: July 3, 2026
 
 LAW XX will be hybrid, allowing both in-person and virtual presentations.
 
