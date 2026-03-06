@@ -9,7 +9,7 @@ _Titles and abstracts are to be announced_
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <div style="flex: 0 0 200px; text-align: center;">
-    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Marie-Catherine de Marneffe</h2>
+    <h2 style="margin: 0 0 0.12rem; padding: 0; line-height: 1.2;"><a href="https://cental.uclouvain.be/team/mcdm/">Marie-Catherine de Marneffe</a></h2>
     <em>UCLouvain</em>
     <img src="static/images/mcdm.jpg" alt="Marie-Catherine de Marneffe" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
   </div>
@@ -22,7 +22,7 @@ _Titles and abstracts are to be announced_
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <div style="flex: 0 0 200px; text-align: center;">
-    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Rachel Rudinger</h2>
+    <h2 style="margin: 0 0 0.12rem; padding: 0; line-height: 1.2;"><a href="https://rudinger.github.io/">Rachel Rudinger</a></h2>
     <em>University of Maryland</em>
     <img src="static/images/rr.jpg" alt="Rachel Rudinger" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
   </div>
