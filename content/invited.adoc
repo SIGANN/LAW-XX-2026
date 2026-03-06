@@ -9,6 +9,19 @@ _Titles and abstracts are to be announced_
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
   <div style="flex: 0 0 200px; text-align: center;">
+    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Marie-Catherine de Marneffe</h2>
+    <em>UCLouvain</em>
+    <img src="static/images/mcdm.jpg" alt="Marie-Catherine de Marneffe" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; padding: 0;">Marie-Catherine de Marneffe is a FNRS research associate and professor at UCLouvain. She obtained her PhD under the supervision of Chris Manning at Stanford University and worked 10 years in the Linguistics department at The Ohio State University as assistant then associate professor. Her main research interests are in computational pragmatics, building models that capture what people infer "between the lines". Her 2012 dissertation highlighted the need to capture variation in human annotations. She is also one of the developers of the Universal Dependencies framework. Her research work has been funded by Google Inc., the National Science Foundation and the FNRS.</p>
+  </div>
+</div>
+
+<hr style="margin: 2.5rem 0;" />
+
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
+  <div style="flex: 0 0 200px; text-align: center;">
     <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Rachel Rudinger</h2>
     <em>University of Maryland</em>
     <img src="static/images/rr.jpg" alt="Rachel Rudinger" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
@@ -18,16 +31,4 @@ _Titles and abstracts are to be announced_
   </div>
 </div>
 
-<hr style="margin: 2.5rem 0;" />
-
-<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
-  <div style="flex: 0 0 200px; text-align: center;">
-    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Marie-Catherine de Marneffe</h2>
-    <em>UCLouvain</em>
-    <img src="static/images/mcdm.jpg" alt="Marie-Catherine de Marneffe" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0; padding: 0;">Marie-Catherine de Marneffe is a FNRS research associate and professor at UCLouvain. She obtained her PhD under the supervision of Chris Manning at Stanford University and worked 10 years in the Linguistics department at The Ohio State University as assistant then associate professor. Her main research interests are in computational pragmatics, building models that capture what people infer "between the lines". Her 2012 dissertation highlighted the need to capture variation in human annotations. She is also one of the developers of the Universal Dependencies framework. Her research work has been funded by Google Inc., the National Science Foundation and the FNRS.</p>
-  </div>
-</div>
 ++++
