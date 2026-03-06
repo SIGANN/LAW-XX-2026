@@ -2,4 +2,32 @@
 :date: 2025-10-26
 :summary: LAW XX | Invited Speakers
 
-_To be announced_
+_Titles and abstracts are to be announced_ 
+
+++++
+<hr style="margin: 2.5rem 0;" />
+
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
+  <div style="flex: 0 0 200px; text-align: center;">
+    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Rachel Rudinger</h2>
+    <em>University of Maryland</em>
+    <img src="static/images/rr.jpg" alt="Rachel Rudinger" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; padding: 0;">Rachel Rudinger is an Assistant Professor of Computer Science at the University of Maryland. Her research interests lie in the areas of natural language understanding, commonsense reasoning, computational semantics/pragmatics, and issues of sociocultural fairness in NLP systems. She is a recipient of the National Science Foundation CAREER Award and holds a Ph.D. in Computer Science from Johns Hopkins University.</p>
+  </div>
+</div>
+
+<hr style="margin: 2.5rem 0;" />
+
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
+  <div style="flex: 0 0 200px; text-align: center;">
+    <h2 style="margin: 0 0 0.25rem; padding: 0; line-height: 1.2;">Marie-Catherine de Marneffe</h2>
+    <em>UCLouvain</em>
+    <img src="static/images/mcdm.jpg" alt="Marie-Catherine de Marneffe" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0; padding: 0;">Marie-Catherine de Marneffe is a FNRS research associate and professor at UCLouvain. She obtained her PhD under the supervision of Chris Manning at Stanford University and worked 10 years in the Linguistics department at The Ohio State University as assistant then associate professor. Her main research interests are in computational pragmatics, building models that capture what people infer "between the lines". Her 2012 dissertation highlighted the need to capture variation in human annotations. She is also one of the developers of the Universal Dependencies framework. Her research work has been funded by Google Inc., the National Science Foundation and the FNRS.</p>
+  </div>
+</div>
+++++
