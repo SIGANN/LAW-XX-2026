@@ -15,6 +15,7 @@
 * Ines Rehbein, _Mannheim University_
 
 == Program Committee
+_(alphabetically ordered by first name)_
 
 * Amir Zeldes	(Georgetown University)
 * Andreas Säuberli	(Ludwig-Maximilians-Universität München )
@@ -23,7 +24,6 @@
 * Berfin Aktas	(University of Technology Nuremberg)
 * Bonnie Webber	(University of Edinburgh)
 * Daniel Dakota	(Leidos)
-* Daniel G. Swanson	(Indiana University)
 * Daniel G. Swanson	(Indiana University)
 * Debopam Das	(Abo Akademi University)
 * Deniz Zeyrek	(Bogazici University)
@@ -38,7 +38,6 @@
 * Karolina Zaczynska	(Universität Potsdam)
 * Lauren Levine	(Georgetown University)
 * Lori Levin	(Carnegie Mellon University)
-* Luke Gessler	
 * Manfred Stede	(Universität Potsdam)
 * Marie-Catherine de Marneffe	(UCLouvain)
 * Markus Egg	(Humboldt-Universität zu Berlin)
