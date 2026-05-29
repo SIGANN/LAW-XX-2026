@@ -189,6 +189,10 @@ _Karlsruhe Institute of Technology and Karlsruhe University of Applied Sciences;
 
 Fine-grained morphosyntactic error annotation is important in clinical and developmental language research, yet it is labour-intensive, expert-dependent, and difficult to scale. We present TalkTag, an LLM-based lightweight tool fine-tuned to automate CHAT-style error annotation in spoken-language transcripts. Developed under conditions of extreme data scarcity using children’s narrative data, the system shows the feasibility of linguistic analysis in low-resource settings. Our evaluation demonstrates that TalkTag produces encouragingly precise annotation while effectively identifying instances where linguistic ambiguity makes automated tagging genuinely complex. In summary, with TalkTag, we provide a scalable alternative to manual error annotation and practically viable support for morphosyntactic error annotation.
 
+== Non-Archival Papers
+
+_Presented at LAW XX; published in another venue._
+
 [discrete]
 === EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI
 
