@@ -42,11 +42,11 @@
 * When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives
 * Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning
 * Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation
-* RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversations
+* Completing and Validating the Re-Aligned Switchboard Dialog Act Corpus
 * Clustering Analysis for Error Detection in Named Entity Recognition Datasets
 * Annotating Clinical Risk and Variation in Haitian Creole Medical Translation
-* Evade: LLM-Based Explanation Generation and Validation for Error Detection in NLI _(Findings)_
-* IndiAnn: An Annotation Platform for Low-Resource Indic Languages _(virtual)_
+* EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI _(Findings)_
+* IndiAnn: A Web-based Annotation Platform for Indic Languages _(virtual)_
 * Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation _(virtual)_
 * Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text _(virtual)_
 
