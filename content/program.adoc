@@ -2,7 +2,7 @@
 :date: 2025-10-26
 :summary: LAW XX | Schedule
 
-[cols="1,4", options="header"]
+[.program, cols="1,4", options="header"]
 |===
 |Time | Session
 
@@ -16,7 +16,7 @@
 * LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics _(virtual)_
 * Revisiting Faithfulness Annotations for Long-form Summaries
 
-|10:30–11:15 |*Coffee Break*
+|10:30–11:15 |_Coffee Break_
 
 |11:15–12:00 a|*Oral Session 2: Corpora, Resources & Annotation Quality*
 
@@ -24,7 +24,7 @@
 * When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives
 * Rules-based system for Czech legal text readability _(virtual)_
 
-|12:00–13:30 |*Lunch*
+|12:00–13:30 |_Lunch_
 
 |13:30–14:15 a|*Oral Session 3: Annotation Guidelines & Methodology*
 
@@ -32,7 +32,7 @@
 * Semantic-pragmatic Annotations in the Prague Dependency Treebank _(Findings)_
 * Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation
 
-|14:15–14:30 |*Short Break*
+|14:15–14:30 |_Short Break_
 
 |14:30–15:30 a|*Poster Session* (in-person + remote cluster, refreshments)
 
@@ -50,7 +50,7 @@
 * Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation _(virtual)_
 * Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text _(virtual)_
 
-|15:30–16:00 |*Coffee Break*
+|15:30–16:00 |_Coffee Break_
 
 |16:00–16:45 |*Keynote 2*
 

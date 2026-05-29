@@ -193,6 +193,30 @@ article.page th {
 }
 
 
+article.page table.program td {
+  vertical-align: top;
+  padding: 4px 10px;
+}
+
+article.page table.program td p {
+  margin: 0;
+}
+
+article.page table.program ul {
+  margin: 2px 0 0;
+  padding-left: 20px;
+}
+
+article.page table.program li {
+  margin: 0;
+  line-height: 1.35;
+}
+
+article.page table.program ul + p,
+article.page table.program p + ul {
+  margin-top: 2px;
+}
+
 article.page table.dates td {
   border: 1px solid var(--crimson-soft);
   background-color: var(--cream-light);
