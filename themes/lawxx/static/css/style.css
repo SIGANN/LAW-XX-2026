@@ -125,19 +125,19 @@ h1 {
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin: 20px 0 18px;
 }
 
 h3 {
-  font-size: 150%;
+  font-size: 18px;
   font-weight: bold;
   margin: 14px 0;
 }
 
 h4 {
-  font-size: 125%;
+  font-size: 16px;
   font-weight: bold;
   margin: 10px 0 4px;
 }
