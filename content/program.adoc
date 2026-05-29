@@ -2,19 +2,59 @@
 :date: 2025-10-26
 :summary: LAW XX | Schedule
 
-_To be announced_
+[cols="1,4", options="header"]
+|===
+|Time | Session
 
-// [cols=">1,4", options="header"]
-// |===
-// |Time | Session
-// |09:00--09:30 | Opening remarks (insert speakers + housekeeping reminders)
-// |09:30 | Keynote 1 — talk title TBD
-// |10:30 | Coffee break
-// |11:00 | Paper Session A — list paper IDs or titles when ready
-// |12:30 | Lunch
-// |14:00 | Paper Session B — placeholder theme
-// |15:30 | Break
-// |16:00 | Panel / Invited talk
-// |17:30 | Closing and announcements
-// |===
+|8:45–9:00 |*Opening Remarks*
 
+|9:00–9:45 |*Keynote 1*
+
+|9:45–10:30 a|*Oral Session 1: Annotating with LLMs — Errors & Disagreement (Special Theme)*
+
+* Human-AI Annotation Error Auditing for Hebrew Diacritization with Frontier LLMs
+* LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics _(virtual)_
+* Revisiting Faithfulness Annotations for Long-form Summaries
+
+|10:30–11:15 |*Coffee Break*
+
+|11:15–12:00 a|*Oral Session 2: Corpora, Resources & Annotation Quality*
+
+* UD-CHILDES-BG: a dependency treebank of Bulgarian child and child-directed speech _(virtual)_
+* When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives
+* Rules-based system for Czech legal text readability _(virtual)_
+
+|12:00–13:30 |*Lunch*
+
+|13:30–14:15 a|*Oral Session 3: Annotation Guidelines & Methodology*
+
+* TalkTag: Fine-Grained Morphosyntactic Error Annotation for Transcribed Speech
+* Semantic-pragmatic Annotations in the Prague Dependency Treebank _(Findings)_
+* Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation
+
+|14:15–14:30 |*Short Break*
+
+|14:30–15:30 a|*Poster Session* (in-person + remote cluster, refreshments)
+
+* Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology
+* Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora
+* Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code
+* When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives
+* Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning
+* Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation
+* RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversations
+* Clustering Analysis for Error Detection in Named Entity Recognition Datasets
+* Annotating Clinical Risk and Variation in Haitian Creole Medical Translation
+* Evade: LLM-Based Explanation Generation and Validation for Error Detection in NLI _(Findings)_
+* IndiAnn: An Annotation Platform for Low-Resource Indic Languages _(virtual)_
+* Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation _(virtual)_
+* Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text _(virtual)_
+
+|15:30–16:00 |*Coffee Break*
+
+|16:00–16:45 |*Keynote 2*
+
+|16:45–17:15 |*Roundtable Discussion: Open Questions & Future Directions*
+
+|17:15–17:30 |*Closing Remarks*
+|===
