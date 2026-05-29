@@ -191,7 +191,7 @@ Fine-grained morphosyntactic error annotation is important in clinical and devel
 
 == Non-Archival Papers
 
-_Presented at LAW XX; published in another venue._
+_Accepted in Findings, presented at LAW XX_
 
 [discrete]
 === EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI
