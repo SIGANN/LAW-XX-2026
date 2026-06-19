@@ -32,7 +32,6 @@ _(alphabetically ordered by first name)_
 * Heike Zinsmeister	(Universität Hamburg)
 * Ines Rehbein	(Universität Mannheim)
 * Jakob Prange	(University Medical Center Hamburg-Eppendorf)
-* James Pustejovsky	(Brandeis University)
 * Jessica Lin	(Google)
 * Jonathan Dunn	(University of Illinois Urbana-Champaign)
 * Karolina Zaczynska	(Universität Potsdam)
