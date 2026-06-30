@@ -2,7 +2,7 @@
 :date: 2025-10-26
 :summary: LAW XX | Invited Speakers
 
-_Titles and abstracts are to be announced_ 
+_Remaining titles and abstracts are to be announced_
 
 ++++
 <hr style="margin: 2.5rem 0;" />
@@ -14,7 +14,9 @@ _Titles and abstracts are to be announced_
     <img src="static/images/mcdm.jpg" alt="Marie-Catherine de Marneffe" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; padding: 0;">Marie-Catherine de Marneffe is a FNRS research associate and professor at UCLouvain. She obtained her PhD under the supervision of Chris Manning at Stanford University and worked 10 years in the Linguistics department at The Ohio State University as assistant then associate professor. Her main research interests are in computational pragmatics, building models that capture what people infer "between the lines". Her 2012 dissertation highlighted the need to capture variation in human annotations. She is also one of the developers of the Universal Dependencies framework. Her research work has been funded by Google Inc., the National Science Foundation and the FNRS.</p>
+    <p style="margin: 0; padding: 0;"><strong>Separating signal from noise: Annotation errors and alternative interpretations</strong></p>
+    <p style="margin: 0.5rem 0 0; padding: 0;">Recent work in Natural Language Processing has emphasized the importance of accounting for variation in human annotations. However not all variation reflects intrinsic differences in interpretation, some may stem from genuine annotation errors. In this talk, I will present research in the context of Natural Language Inference that aims at disentangling intrinsic variation from genuine errors. I will also argue for gathering explanations in annotation tasks, which are essential to fully understand the sources of human disagreement and can be used to robustly evaluate NLP models.</p>
+    <p style="margin: 1.25rem 0 0; padding: 0; color: #555;">Marie-Catherine de Marneffe is a FNRS research associate and professor at UCLouvain. She obtained her PhD under the supervision of Chris Manning at Stanford University and worked 10 years in the Linguistics department at The Ohio State University as assistant then associate professor. Her main research interests are in computational pragmatics, building models that capture what people infer "between the lines". Her 2012 dissertation highlighted the need to capture variation in human annotations. She is also one of the developers of the Universal Dependencies framework. Her research work has been funded by Google Inc., the National Science Foundation and the FNRS.</p>
   </div>
 </div>
 
@@ -27,7 +29,9 @@ _Titles and abstracts are to be announced_
     <img src="static/images/rr.jpg" alt="Rachel Rudinger" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0.75rem auto 0;" />
   </div>
   <div style="flex: 1;">
-    <p style="margin: 0; padding: 0;">Rachel Rudinger is an Assistant Professor of Computer Science at the University of Maryland. Her research interests lie in the areas of natural language understanding, commonsense reasoning, computational semantics/pragmatics, and issues of sociocultural fairness in NLP systems. She is a recipient of the National Science Foundation CAREER Award and holds a Ph.D. in Computer Science from Johns Hopkins University.</p>
+    <p style="margin: 0; padding: 0;"><strong>Like Nailing Jello to the Wall? Annotation Challenges for Common Sense and Cultural Consensus</strong></p>
+    <p style="margin: 0.5rem 0 0; padding: 0;">Pragmatic understanding of language requires common-sense reasoning: the ability to draw inferences about real-world situations, the people involved in them, and their mental states. This type of reasoning inherently involves uncertainty. While it is simple to define "correct" solutions in, e.g., mathematical reasoning benchmarks for LLMs, pinning down "correctness" in common-sense reasoning benchmarks presents a number of challenges, including cognitive biases and cross-cultural differences. In this talk, I will discuss some of my lab's research efforts to study and address these challenges.</p>
+    <p style="margin: 1.25rem 0 0; padding: 0; color: #555;">Rachel Rudinger is an Assistant Professor of Computer Science at the University of Maryland. Her research interests lie in the areas of natural language understanding, commonsense reasoning, computational semantics/pragmatics, and issues of sociocultural fairness in NLP systems. She is a recipient of the National Science Foundation CAREER Award and holds a Ph.D. in Computer Science from Johns Hopkins University.</p>
   </div>
 </div>
 
