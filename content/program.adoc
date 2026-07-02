@@ -2,6 +2,8 @@
 :date: 2025-10-26
 :summary: LAW XX | Schedule
 
+Location: *La Jolla*, Manchester Grand Hyatt San Diego
+
 [.program, cols="1,4", options="header"]
 |===
 |Time | Session
