@@ -4,6 +4,8 @@
 
 Location: *La Jolla*, Manchester Grand Hyatt San Diego
 
+Underline page (see for Zoom and Gather Town links): https://underline.io/events/530/sessions?eventSessionId=22989
+
 [.program, cols="1,4", options="header"]
 |===
 |Time | Session
@@ -36,7 +38,7 @@ Location: *La Jolla*, Manchester Grand Hyatt San Diego
 
 |14:15–14:30 |_Short Break_
 
-|14:30–15:30 a|*Poster Session* (in-person + remote cluster, refreshments)
+|14:30–15:30 a|*Poster Session* (Hybrid in Grand Hall and Gather Town)
 
 * Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology
 * Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora
