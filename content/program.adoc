@@ -10,7 +10,7 @@ Location: *La Jolla*, Manchester Grand Hyatt San Diego
 
 |8:45–9:00 |*Opening Remarks*
 
-|9:00–9:45 |*Keynote 1*
+|9:00–9:45 |*Keynote: Separating signal from noise: Annotation errors and alternative interpretations* (Marie-Catherine de Marneffe) 
 
 |9:45–10:30 a|*Oral Session 1: Annotating with LLMs — Errors & Disagreement (Special Theme)*
 
@@ -54,7 +54,7 @@ Location: *La Jolla*, Manchester Grand Hyatt San Diego
 
 |15:30–16:00 |_Coffee Break_
 
-|16:00–16:45 |*Keynote 2*
+|16:00–16:45 |*Keynote: Like Nailing Jello to the Wall? Annotation Challenges for Common Sense and Cultural Consensus* (Rachel Rudinger)
 
 |16:45–17:15 |*Roundtable Discussion: Open Questions & Future Directions*
 
