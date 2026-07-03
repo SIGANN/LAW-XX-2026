@@ -10,7 +10,7 @@
 // Edit the source data and regenerate; do not hand-edit.
 
 [discrete]
-=== Annotating Clinical Risk and Variation in Haitian Creole Medical Translation
+=== link:https://aclanthology.org/2026.law-main.1/[Annotating Clinical Risk and Variation in Haitian Creole Medical Translation]
 
 *Ludovic Mompelat, David Tézil, Rose Flaure Accilien*
 
@@ -19,7 +19,7 @@ _University of Miami; University of Alabama_
 We present an annotation schema for Haitian Creole medical translation that makes clinical risk and sociolinguistic variation explicit while remaining lightweight enough for small expert teams. The schema includes binary fields for overall acceptability, severity of potential misunderstanding, and foreign-influence cues, along with conditional error tags aligned with Multidimensional Quality Metrics (MQM), commonly used in the medical domain, for interoperability. Through three rounds of annotation and adjudication we achieve stable inter-annotator agreement and release a gold dataset of 152 EN→HC medical sentence pairs. A simple classifier–labeller baseline demonstrates that acceptability and severity are reliably learnable under data scarcity, while foreign-influence judgments remain limited by prevalence. These results show that clinically oriented, variety-sensitive annotation can both support immediate screening of patient-facing translations and provide reward-ready signals for future preference-based MT and LLM fine-tuning.
 
 [discrete]
-=== Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation
+=== link:https://aclanthology.org/2026.law-main.2/[Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation]
 
 *Hakyung Sung, Gyu-Ho Shin*
 
@@ -28,7 +28,7 @@ _Psychology, Rochester Institute of Technology; Linguistics, University of Illin
 We propose a simplified human-in-the-loop workflow for second language (L2) Korean morphosyntactic annotation by leveraging agreement between two domain-adapted parsers. We first evaluate whether parser agreement can serve as a proxy for annotation correctness by comparing it with independent human judgments. The results show strong correspondence between parser and human judgments, supporting the feasibility of semi-automatic L2-Korean UD annotation. Further analysis demonstrates that parser disagreements cluster in linguistically predictable domains such as grammatical-relation distinctions and clause-boundary ambiguity. While many disagreement cases are tractable for iterative model refinement, others reflect deeper representational challenges inherent in parsing and tagging L2-Korean corpora.
 
 [discrete]
-=== Rules-based system for Czech legal text readability
+=== link:https://aclanthology.org/2026.law-main.3/[Rules-based system for Czech legal text readability]
 
 *Kateřina Motalík Hodková, Ivan Kraus, Barbora Hladká*
 
@@ -37,7 +37,7 @@ _Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics
 In this paper, we present a set of linguistic rules, employed to enhance the readability of legal texts. The rules were compiled and implemented as a rule-based module of PONK, an advisory tool that contributes to simplification and higher clarity of Czech legal texts, especially those intended for non-expert audience. Based on recurring phenomena in authentic texts and relevant scientific sources, the rules cover mainly the domains of syntax and lexicon. In addition, we present the results of application of the rules to a corpus of authentic legal texts, evaluated by a human annotator, and examine their impact.
 
 [discrete]
-=== Human-AI Annotation Error Auditing for Hebrew Diacritization with Frontier LLMs
+=== link:https://aclanthology.org/2026.law-main.4/[Human-AI Annotation Error Auditing for Hebrew Diacritization with Frontier LLMs]
 
 *Hillel Gershuni, Avi Shmidman*
 
@@ -46,7 +46,7 @@ _Bar-Ilan University and DICTA_
 Large annotated datasets inevitably contain errors that are costly to identify via manual review. We study a human-AI annotation error auditing workflow using frontier Large Language Models (LLMs), focusing on Hebrew nikud (diacritization). We take the the EACL 2023 Hebrew Homograph Challenge Set as our test case. In a focused evaluation on 12 of the homograph sets with 271 confirmed errors (verified through exhaustive manual review of all 7,241 sentences), Gemini 3 Pro achieves 83.6% recall (95% confidence interval: [79.3%, 88.2%]) and 99.1% precision - substantially higher than other frontier LLMs. Two independent human experts achieved 62.4% and 42.8% recall respectively, a 20-percentage-point spread that reflects the difficulty of sparse-target error search. Even the union of both experts' findings (73.4% recall) falls short of a single LLM run (83.6%), while LLM-aided auditing reduces review effort by over 95%. We analyze the trade-offs between batch size and recall, and release both a human-verified Gold Standard with per-error difficulty annotations and a globally corrected version of the Challenge Set.
 
 [discrete]
-=== Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation
+=== link:https://aclanthology.org/2026.law-main.5/[Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation]
 
 *Wajdi Zaghouani*
 
@@ -55,7 +55,7 @@ _Northwestern University Qatar_
 Annotation errors in hate speech corpora are often attributed to annotator disagreement or bias. This paper argues that a substantial and underexamined class of errors originates upstream, from structural weaknesses in annotation guidelines themselves. When guidelines fail to encode the linguistic and cultural properties of the target discourse, they make certain errors structurally inevitable regardless of annotator quality. Focusing on Arabic social media discourse, a challenging setting due to its dialect continuum, culturally embedded insult conventions, sarcasm-heavy pragmatics, and complex religious rhetoric, we identify three mechanisms through which guideline design produces systematic annotation errors: cultural misclassification, when culturally specific hostile expressions fall outside annotation categories; dialectal ambiguity, when lexical meanings shift across regional varieties; and annotation projection, when frameworks developed for English moderation are applied to Arabic without adequate adaptation. Using six illustrative case studies with attested Arabic examples, we show how these mechanisms produce recurrent misannotations in existing datasets. We propose a taxonomy of five guideline-induced error types, an explicit mapping from mechanisms to error types, and a practical four-stage diagnostic framework for dataset builders.
 
 [discrete]
-=== When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives
+=== link:https://aclanthology.org/2026.law-main.6/[When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives]
 
 *Vishwaa Shah, Indika Kahanda, Andrea Arikawa*
 
@@ -64,7 +64,7 @@ _University of North Florida, School of Computing; University of North Florida, 
 Accurate linguistic annotation is crucial for creating high-quality datasets in specialized domains, yet manual labeling is often slow, expensive, and inconsistent. We present a reproducible workflow for evaluating the effectiveness of large language models (LLMs) as annotators of domain-specific health misinformation on social media. Using a data set of 169 Instagram posts on seed oils, expert nutritionists provided gold-standard labels (71% positives), which we compared against the outputs of five open-source LLMs. We introduce a hierarchical error taxonomy that categorizes LLM misclassifications according to the direction, mechanism, and contributing factors of the error, providing interpretable insights into model failures. Our analysis reveals systematic error patterns, including misinterpretation of nuanced claims and overconfidence in predictions, highlighting conditions under which LLM annotations do not align with expert judgment. Although the data set is modest in size and exhibits class imbalance, it reflects real‑world distributions of nutrition‑related Instagram content and motivates the need for a careful evaluation of the robustness of the LLM annotation. This study has implications for the development of frameworks for automated LLM-based annotators in the health and nutrition domains, as well as LLM developers in general.
 
 [discrete]
-=== Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning
+=== link:https://aclanthology.org/2026.law-main.7/[Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning]
 
 *Mustafa Erolcan Er*
 
@@ -73,7 +73,7 @@ _Department of Cognitive Science, Middle East Technical University (METU)_
 Large Language Models have demonstrated significant progress in solving mathematical word problems through techniques like Chain-of-Thought (CoT) prompting. However, recent research indicates that these models often rely on statistical regularities and surface-level patterns rather than true logical reasoning, leading to performance drops when faced with minor problem perturbations or irrelevant information. In this study, we introduce Math Discourse Bank (Math-DB), a novel discourse framework and annotated dataset designed to enhance LLM reasoning. Inspired by the Penn Discourse TreeBank (PDTB) and mathematics education research, Math-DB defines a hierarchy of discourse senses designed for quantitative reasoning, including categories such as Change, Combine, Compare, and Equalize. We applied this framework to the GSM-Symbolic dataset of 12,500 problems, yielding 47,815 sense-labeled discourse relations over 11,414 successfully-aligned instances (91.3% pipeline yield). Our experiments demonstrate that incorporating Math-DB annotations into CoT prompts consistently improves LLM performance across various difficulty levels.
 
 [discrete]
-=== Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text
+=== link:https://aclanthology.org/2026.law-main.8/[Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text]
 
 *Hanna Schmück, Veronika Urban, Xaver Krückl, Sonja Zeman, Claudia Claridge, Annemarie Friedrich*
 
@@ -82,7 +82,7 @@ _University of Augsburg_
 Situation Entity (SE) segmentation identifies clause-like discourse units focusing on verb constellations. While SE segmentation has been applied to contemporary English as a subtask of SE annotation, systematic guidelines for syntactically ambiguous constructions remain underspecified. We present principled SE segmentation guidelines for contemporary and historical varieties of English and German. Our inter-annotator agreement studies on Late Modern English (1700–1900) and New High German (1650–1900) corpora demonstrate substantial agreement. Using the existing SitEnt corpus in contemporary English, we implement a new automatic segmenter based on XLM-RoBERTa. Our evaluation examines cross-variety and cross-lingual generalization, demonstrating challenges both for human annotation efforts and in transferring segmenters trained on contemporary English to historical varieties. Our code and data are publicly available at https://github.com/coling-unia/sitent-segmenter-law2026.
 
 [discrete]
-=== UD-CHILDES-BG: a dependency treebank of Bulgarian child and child-directed speech
+=== link:https://aclanthology.org/2026.law-main.9/[UD-CHILDES-BG: a dependency treebank of Bulgarian child and child-directed speech]
 
 *Mila Marcheva-Nash, Yasena Chantova, Tsvetina Kirilova, Ivelina Pavlova, Tsvetelina Stefanova, Yoana Vasileva, Weiwei Sun*
 
@@ -91,7 +91,7 @@ _Department of Computer Science & Technology, University of Cambridge; Faculty o
 This paper presents (i) UD-CHILDES-BG, a manually corrected Universal Dependencies treebank of Bulgarian child and child-directed speech, (ii) a quantitative and phenomenon-based evaluation of inter-annotator agreement on developmental data, and (iii) a systematic analysis of parser errors in this underrepresented domain. We manually correct 4,338 dependency parses (10% of the CHILDES-BG corpus), of which 14% are double-annotated. Inter-annotator agreement on UAS/LAS is 91.71/86.12 for child-directed speech (CDS) and 88.14/81.40 for child speech (CS). Parser performance on the manually corrected portion is 92.70/85.54 for CDS and 90.97/81.52 for CS, compared to a reported 93.37/90.21 on the test set of adult written language. Our analyses reveal that CDS and CS pose challenges for dependency annotation and parsing, particularly in discourse-related structures, which are less common in adult written language.
 
 [discrete]
-=== IndiAnn: A Web-based Annotation Platform for Indic Languages
+=== link:https://aclanthology.org/2026.law-main.10/[IndiAnn: A Web-based Annotation Platform for Indic Languages]
 
 *Bandaru Lavadeep, Ritwik Raghav, Abhik Jana*
 
@@ -100,7 +100,7 @@ _IIT Bhubaneswar_
 Linguistic annotation tools that work well for non-Indic languages (e.g. English, German, Spanish, etc.) often fail with Indic scripts due to complex Unicode properties, including visual reordering of vowel matras, conjunct characters, and grapheme clusters spanning multiple code points. In this paper, we present a web-based annotation platform IndiAnn, designed for low-resource Indic languages, which uses native browser Unicode rendering, offset-based storage that preserves grapheme clusters, and no forced tokenization in the user interface. The tool supports annotation for tasks such as part-of-speech (POS) tagging, named entity recognition (NER), dependency relation annotation, and semantic role labelling (SRL), that maintain correct character boundaries and enable seamless interoperability with standard NLP pipelines and tools. The framework is designed for Indic languages and has been tested on Telugu, Hindi, Tamil, Malayalam, Bengali, Odia, Marathi, and Kannada, with no script breakage during annotation. To the best of our knowledge, this is the first ever attempt at building a unified annotation framework (IndiAnn), which covers annotation for such varieties of key NLP tasks, having provision for eight Indic languages. The code repository is made publicly available (https://github.com/Lavadeep/INDIANN).
 
 [discrete]
-=== Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology
+=== link:https://aclanthology.org/2026.law-main.11/[Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology]
 
 *Walid Massoud, Houda Bouamor, Abdelrahman Abdel Latif Hussein, Abdullah Mohamed Mohamed Zekri*
 
@@ -109,7 +109,7 @@ _Qatar University; Carnegie Mellon University in Qatar; National Center for Exam
 Automated Essay Scoring (AES) fundamentally depends on high-quality annotated data, yet systematic approaches to developing annotation guidelines remain largely undocumented, especially for Arabic. We present a comprehensive methodology for trait-based Arabic AES annotation, applied to build a dataset of 7,859 essays by high school students annotated across seven writing traits, achieving substantial inter-annotator agreement (QWK: 0.66--0.75). Our methodology encompasses: (1) a seven-dimensional scoring framework grounded in Arabic linguistic and rhetorical conventions; (2) over 25 pages of Arabic-language guidelines with terminology unification, text-type-specific scoring descriptors, and annotated student examples; (3) a multi-stage training protocol that raised annotator agreement before production began; and (4) quality assurance mechanisms, including dual annotation and supervisor adjudication. We release all materials publicly, providing both a validated foundation for Arabic AES research and a replicable template for annotation guideline development in other morphologically complex, under-resourced languages.
 
 [discrete]
-=== Revisiting Faithfulness Annotations for Long-form Summaries
+=== link:https://aclanthology.org/2026.law-main.12/[Revisiting Faithfulness Annotations for Long-form Summaries]
 
 *Yang Zhong, Yang Janet Liu, Diane Litman*
 
@@ -118,7 +118,7 @@ _Department of Computer Science, University of Pittsburgh; Department of Linguis
 Benchmarks for long-form summaries (four or more sentences) generated by language models increasingly serve as gold-standard references for developing, evaluating, and comparing faithfulness-checking systems. As their influence grows, understanding the challenges of annotating faithfulness errors within long, discourse-rich summaries becomes critical. We revisit three benchmarks spanning diverse text types and contrasting annotation designs. Using a discourse-aware evaluation framework together with human auditing, we identify cases where benchmark labels may be unreliable. Manual verification shows that 3.4%-5.4% of sentence-level labels warrant revision due to discourse-level inconsistencies that standard annotation procedures overlook. We introduce a taxonomy of five recurring annotation error types, propose revised labels, and show that correcting these cases leads to meaningful shifts in system rankings. We conclude with recommendations for future annotation practices.
 
 [discrete]
-=== Completing and Validating the Re-Aligned Switchboard Dialog Act Corpus
+=== link:https://aclanthology.org/2026.law-main.13/[Completing and Validating the Re-Aligned Switchboard Dialog Act Corpus]
 
 *Run Chen, Zihao Tao, John Prado, Ignazio LaManna, Ryan Puterbaugh, Mim Datta, Julia Hirschberg*
 
@@ -127,7 +127,7 @@ _Google and Columbia University; Columbia University; Columbia University and Un
 Although widely used in dialog act prediction and generation, the Switchboard Dialog Act (SwDA) corpus has performed poorly in models incorporating prosodic information because of misalignment between speech and text data. In this paper, we report our completion of the work begun in Chen et al. (2024) in addressing these misalignment issues with an improved SwDA corpus called RASwDA (Re-Aligned Switchboard Dialog Act Corpus). Now fully re-aligned and validated, RASwDA finally meets standards of accuracy allowing for classification models trained on it to exceed classification benchmarks set by models trained on other Switchboard subcorpora.
 
 [discrete]
-=== Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation
+=== link:https://aclanthology.org/2026.law-main.14/[Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation]
 
 *Amir Zeldes, Katherine Conhaim, Lauren Levine*
 
@@ -136,7 +136,7 @@ _Department of Linguistics, Georgetown University_
 Despite a long tradition of work on extractive summarization, which by nature aims to recover the most important propositions in a text, little work has been done on operationalizing graded proposition salience in naturally occurring data. In this paper, we adopt graded summarization-based salience as a metric from previous work on Salient Entity Extraction (SEE) and adapt it to quantify proposition salience. We define the annotation task, apply it to a small multi-genre dataset, evaluate agreement and carry out a preliminary study of the relationship between our metric and notions of discourse unit centrality in discourse parsing following Rhetorical Structure Theory (RST).
 
 [discrete]
-=== LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics
+=== link:https://aclanthology.org/2026.law-main.15/[LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics]
 
 *Galadrielle Humblot-Renaux, Mohammad N. S. Jahromi, Rohat Bakuri-Jørgensen, Marieke Anne Heyl, Asta S. Stage Jarlner, Maria Vlachou, Anna Murphy Høgenhaug, Desmond Elliott, Thomas Gammeltoft-Hansen, Thomas B. Moeslund*
 
@@ -145,7 +145,7 @@ _Visual Analysis and Perception Lab, Aalborg University and Pioneer Center for A
 Off-the-shelf large language models (LLMs) are increasingly used to automate text annotation, yet their effectiveness remains underexplored for underrepresented languages and specialized domains where the class definition requires subtle expert understanding. We investigate LLM-based annotation for a novel legal NLP task: identifying the presence and sentiment of credibility assessments in asylum decision texts. We introduce RAB-Cred, a Danish text classification dataset featuring high-quality, expert annotations and valuable metadata such as annotator confidence and asylum case outcome. We benchmark 21 open-weight models and 30 system-user prompt combinations for this task, and systematically evaluate the effect of model and prompt choice for zero-shot and few-shot classification. We zoom in on the errors made by top-performing models and prompts, investigating error consistency across LLMs, inter-class confusion, correlation with human confidence and sample-wise difficulty and severity of LLM mistakes. Our results confirm the potential of LLMs for cost-effective labeling of asylum decisions, but highlight the imperfect and inconsistent nature of LLM annotators, and the need to look beyond the predictions of a single, arbitrarily chosen model. The RAB-Cred dataset and code are available at https://github.com/glhr/RAB-Cred
 
 [discrete]
-=== Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora
+=== link:https://aclanthology.org/2026.law-main.16/[Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora]
 
 *Lauren Levine, Amir Zeldes*
 
@@ -154,7 +154,7 @@ _Department of Linguistics, Georgetown University_
 In this paper, we perform an error analysis on human and LLM annotation data from the recent GUMBridge corpus for varieties of bridging anaphora. We explore the distribution of precision and recall errors made by annotators and how that distribution correlates with bridging subtypes. We find that while LLMs perform substantially worse than human annotators, they are more balanced in their precision and recall scores than humans, whose performance strongly favors precision. With regard to subtypes, we find that comparison and meronomy relations are easier to reliably annotate than the more broadly construed entity relations for both human and LLM annotators, but that LLM errors are more distributed across subtypes than human errors. Analyzing these results, we provide insights for future annotation projects on bridging anaphora.
 
 [discrete]
-=== Clustering Analysis for Error Detection in Named Entity Recognition Datasets
+=== link:https://aclanthology.org/2026.law-main.17/[Clustering Analysis for Error Detection in Named Entity Recognition Datasets]
 
 *Matthew Flynn, Timothy Obiso, Sam Newman, Constantine Lignos*
 
@@ -163,7 +163,7 @@ _Michtom School of Computer Science, Brandeis University; Independent researcher
 This paper introduces a method for the automatic detection of annotation errors and corrections in named entity recognition datasets using a novel two-stage dimension reduction of dense sentence embeddings. We first find the top-n principal components of an embedding and then use UMAP for second-stage, non-linear dimension reduction and clustering using different distance metrics. We analyze these clusters using silhouette scores to flag outlier mentions for correction. Using the corrections in the CoNLL# dataset as a benchmark, all of the top-five outliers needed correction, as did 7 of the top-10. This approach also identified 32 of the top-50 outlier mentions that are corrections. This method offers a relatively low-effort way to leverage text embeddings and dimensionality reduction to identify likely annotation errors. We release related code and data at https://github.com/bltlab/clustering-for-ner.
 
 [discrete]
-=== When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives
+=== link:https://aclanthology.org/2026.law-main.18/[When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives]
 
 *Md Sajjad Hossain, Lin Li, Judy A. Perkins, John Clary, Joel Meyer*
 
@@ -172,7 +172,7 @@ _Department of Computer Science, Prairie View A&M University; Department of Civi
 Linguistic annotation of high-stakes narrative data is often constrained by data confidentiality, domain expertise, and the lack of large-scale multi-annotator pipelines. We present a human-in-the-loop framework for auditing annotation discrepancies in crash narratives, combining structured labels, narrative-based annotation, and expert adjudication. Using 9,387 crash reports, we conduct a multi-layer analysis of disagreement across annotation sources. Nearly half of the records (49.4%) exhibit discrepancies between structured and narrative labels, driven mainly by unsupported structured assignments. In contrast, narrative-based annotation achieves near-perfect agreement with adjudication (κ = 0.990), indicating strong consistency when grounded in textual evidence. We introduce a taxonomy of discrepancies, showing refinement opportunities and missing details are the most common, while linguistic factors such as hedging and underspecification contribute to ambiguity. We further show that annotator-reported uncertainty strongly predicts annotation difficulty, with uncertain records nearly nine times more likely to disagree with structured labels. These findings highlight limitations of administrative coding and support a scalable, uncertainty-guided annotation paradigm for restricted-access domains.
 
 [discrete]
-=== Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code
+=== link:https://aclanthology.org/2026.law-main.19/[Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code]
 
 *Victoria Basmov, Yoav Goldberg, Reut Tsarfaty*
 
@@ -181,7 +181,7 @@ _Bar-Ilan University and Allen Institute for Artificial Intelligence; Bar-Ilan U
 The behavior of contemporary generative Large Language Models (LLMs) is directly shaped by prompts, unstructured texts that describe the desired output and model behavior. In this paper we argue that prompts are linguistic objects that merit investigation in their own right. To this end, we collect 57.5K unique samples of prompts from GitHub. Specifically, we focus on transactional prompts: reproducible natural language instructions that are integrated into software. To enable the empirical, quantitative study of prompts, we introduce a structured ontology, capturing the properties of prompts as well as their formal and semantic components. Based on this ontology, we transform prompts from unstructured raw texts into richly structured linguistic objects. Analysis of these structured data reveals significant diversity of usage patterns across languages, domains, tasks, and modalities, in a typical Zipf-like distribution where some clearly prevail and others, more diverse, appear in the long tail. To validate the reliability of the ontology-based annotation of the prompts, we perform a comprehensive error analysis across all fields, providing a detailed assessment of annotation quality. We release the dataset together with a browsing and exploration interface.
 
 [discrete]
-=== TalkTag: Fine-Grained Morphosyntactic Error Annotation for Transcribed Speech
+=== link:https://aclanthology.org/2026.law-main.20/[TalkTag: Fine-Grained Morphosyntactic Error Annotation for Transcribed Speech]
 
 *Shamira Venturini, Oliver Hennhöfer, Steffen Kinkel, Jannik Strötgen*
 
@@ -194,7 +194,7 @@ Fine-grained morphosyntactic error annotation is important in clinical and devel
 _Accepted in Findings, presented at LAW XX_
 
 [discrete]
-=== EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI
+=== link:https://aclanthology.org/2026.findings-acl.65/[EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI]
 
 *Longfei Zuo, Barbara Plank, Siyao Peng*
 
@@ -203,7 +203,7 @@ _LMU Munich_
 High-quality datasets are critical for training and evaluating reliable NLP models. In tasks like natural language inference (NLI), human label variation (HLV) arises when multiple labels are valid for the same instance, making it difficult to separate annotation errors from plausible variation. An earlier framework VARIERR (Weber-Genzel et al., 2024) asks multiple annotators to explain their label decisions in the first round and flag errors via validity judgments in the second round. However, conducting two rounds of manual annotation is costly and may limit the coverage of plausible labels or explanations. Our study proposes a new framework, EVADE, for generating and validating explanations to detect errors using large language models (LLMs). We perform a comprehensive analysis comparing human- and LLM-detected errors for NLI across distribution comparison, validation overlap, and impact on model fine-tuning. Our experiments demonstrate that LLM validation refines generated explanation distributions to more closely align with human annotations, and that removing LLM-detected errors from training data yields improvements in fine-tuning performance than removing errors identified by human annotators. This highlights the potential to scale error detection, reducing human effort while improving dataset quality under label variation.
 
 [discrete]
-=== Semantic-pragmatic Annotations in the Prague Dependency Treebank
+=== link:https://aclanthology.org/2026.findings-acl.1060/[Semantic-pragmatic Annotations in the Prague Dependency Treebank]
 
 *Marie Mikulová, Eva Hajičová, Jiří Mírovský, Anna Nedoluzhko, Michal Novák, Pavlína Synková, Jan Štěpánek, Barbora Štěpánková, Jan Hajič*
 
