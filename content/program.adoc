@@ -12,51 +12,51 @@ Underline page (see for Zoom and Gather Town links): https://underline.io/events
 
 |8:45–9:00 |*Opening Remarks*
 
-|9:00–9:45 |*Keynote: Separating signal from noise: Annotation errors and alternative interpretations* (Marie-Catherine de Marneffe) 
+|9:00–9:45 |*link:invited.html#de-marneffe[Keynote: Separating signal from noise: Annotation errors and alternative interpretations]* (Marie-Catherine de Marneffe)
 
 |9:45–10:30 a|*Oral Session 1: Annotating with LLMs — Errors & Disagreement (Special Theme)*
 
-* Human-AI Annotation Error Auditing for Hebrew Diacritization with Frontier LLMs
-* LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics _(virtual)_
-* Revisiting Faithfulness Annotations for Long-form Summaries
+* link:accepted.html#_human_ai_annotation_error_auditing_for_hebrew_diacritization_with_frontier_llms[Human-AI Annotation Error Auditing for Hebrew Diacritization with Frontier LLMs]
+* link:accepted.html#_llms_as_annotators_of_credibility_assessment_in_danish_asylum_decisions_evaluating_classification_performance_and_errors_beyond_aggregated_metrics[LLMs as annotators of credibility assessment in Danish asylum decisions: evaluating classification performance and errors beyond aggregated metrics] __(virtual)__
+* link:accepted.html#_revisiting_faithfulness_annotations_for_long_form_summaries[Revisiting Faithfulness Annotations for Long-form Summaries]
 
 |10:30–11:15 |_Coffee Break_
 
 |11:15–12:00 a|*Oral Session 2: Corpora, Resources & Annotation Quality*
 
-* UD-CHILDES-BG: a dependency treebank of Bulgarian child and child-directed speech _(virtual)_
-* When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives
-* Rules-based system for Czech legal text readability _(virtual)_
+* link:accepted.html#_ud_childes_bg_a_dependency_treebank_of_bulgarian_child_and_child_directed_speech[UD-CHILDES-BG: a dependency treebank of Bulgarian child and child-directed speech] __(virtual)__
+* link:accepted.html#_when_ground_truth_disagrees_a_human_in_the_loop_audit_of_annotation_errors_in_high_stakes_crash_narratives[When Ground Truth Disagrees: A Human-in-the-Loop Audit of Annotation Errors in High-Stakes Crash Narratives]
+* link:accepted.html#_rules_based_system_for_czech_legal_text_readability[Rules-based system for Czech legal text readability] __(virtual)__
 
 |12:00–13:30 |_Lunch_
 
 |13:30–14:15 a|*Oral Session 3: Annotation Guidelines & Methodology*
 
-* TalkTag: Fine-Grained Morphosyntactic Error Annotation for Transcribed Speech
-* Semantic-pragmatic Annotations in the Prague Dependency Treebank _(Findings)_
-* Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation
+* link:accepted.html#_talktag_fine_grained_morphosyntactic_error_annotation_for_transcribed_speech[TalkTag: Fine-Grained Morphosyntactic Error Annotation for Transcribed Speech]
+* link:accepted.html#_semantic_pragmatic_annotations_in_the_prague_dependency_treebank[Semantic-pragmatic Annotations in the Prague Dependency Treebank] __(Findings)__
+* link:accepted.html#_not_worth_mentioning_a_pilot_study_on_salient_proposition_annotation[Not Worth Mentioning? A Pilot Study on Salient Proposition Annotation]
 
 |14:15–14:30 |_Short Break_
 
 |14:30–15:30 a|*Poster Session* (Hybrid in Grand Hall and Gather Town)
 
-* Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology
-* Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora
-* Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code
-* When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives
-* Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning
-* Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation
-* Completing and Validating the Re-Aligned Switchboard Dialog Act Corpus
-* Clustering Analysis for Error Detection in Named Entity Recognition Datasets
-* Annotating Clinical Risk and Variation in Haitian Creole Medical Translation
-* EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI _(Findings)_
-* IndiAnn: A Web-based Annotation Platform for Indic Languages _(virtual)_
-* Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation _(virtual)_
-* Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text _(virtual)_
+* link:accepted.html#_designing_annotation_guidelines_for_trait_based_arabic_automated_essay_scoring_a_systematic_methodology[Designing Annotation Guidelines for Trait-Based Arabic Automated Essay Scoring: A Systematic Methodology]
+* link:accepted.html#_cracks_in_the_bridgeor_a_bridge_too_far_comparing_human_and_llm_errors_in_the_annotation_of_bridging_anaphora[Cracks in the Bridge—or A Bridge Too Far? Comparing Human and LLM Errors in the Annotation of Bridging Anaphora]
+* link:accepted.html#_prompts_in_the_wild_a_large_analyzed_collection_of_transactional_prompts_in_code[Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code]
+* link:accepted.html#_when_llms_disagree_with_human_experts_understanding_llm_annotation_failures_in_nutrition_misinformation_through_hierarchical_error_analysis_using_seed_oil_narratives[When LLMs Disagree with Human Experts: Understanding LLM Annotation Failures in Nutrition Misinformation through Hierarchical Error Analysis using Seed Oil Narratives]
+* link:accepted.html#_math_db_a_discourse_framework_for_mathematical_word_problems_to_enhance_llm_reasoning[Math-DB: A Discourse Framework for Mathematical Word Problems to Enhance LLM Reasoning]
+* link:accepted.html#_parser_agreement_and_disagreement_in_l2_korean_ud_implications_for_human_in_the_loop_annotation[Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation]
+* link:accepted.html#_completing_and_validating_the_re_aligned_switchboard_dialog_act_corpus[Completing and Validating the Re-Aligned Switchboard Dialog Act Corpus]
+* link:accepted.html#_clustering_analysis_for_error_detection_in_named_entity_recognition_datasets[Clustering Analysis for Error Detection in Named Entity Recognition Datasets]
+* link:accepted.html#_annotating_clinical_risk_and_variation_in_haitian_creole_medical_translation[Annotating Clinical Risk and Variation in Haitian Creole Medical Translation]
+* link:accepted.html#_evade_llm_based_explanation_generation_and_validation_for_error_detection_in_nli[EVADE: LLM-Based Explanation Generation and Validation for Error Detection in NLI] __(Findings)__
+* link:accepted.html#_indiann_a_web_based_annotation_platform_for_indic_languages[IndiAnn: A Web-based Annotation Platform for Indic Languages] __(virtual)__
+* link:accepted.html#_beyond_annotator_disagreement_guideline_induced_errors_in_arabic_hate_speech_annotation[Beyond Annotator Disagreement: Guideline-Induced Errors in Arabic Hate Speech Annotation] __(virtual)__
+* link:accepted.html#_cross_linguistic_situation_entity_segmentation_for_discourse_analysis_in_diachronic_english_and_german_text[Cross-Linguistic Situation Entity Segmentation for Discourse Analysis in Diachronic English and German Text] __(virtual)__
 
 |15:30–16:00 |_Coffee Break_
 
-|16:00–16:45 |*Keynote: Like Nailing Jello to the Wall? Annotation Challenges for Common Sense and Cultural Consensus* (Rachel Rudinger)
+|16:00–16:45 |*link:invited.html#rudinger[Keynote: Like Nailing Jello to the Wall? Annotation Challenges for Common Sense and Cultural Consensus]* (Rachel Rudinger)
 
 |16:45–17:15 |*Roundtable Discussion: Open Questions & Future Directions*
 
