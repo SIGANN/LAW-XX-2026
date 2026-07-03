@@ -217,6 +217,22 @@ article.page table.program p + ul {
   margin-top: 2px;
 }
 
+/* Talk links: quiet by default, only reveal link color on hover. */
+article.page table.program a,
+article.page table.program a:visited {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--crimson-soft);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+article.page table.program a:hover {
+  color: var(--link-hover);
+  text-decoration-color: currentColor;
+}
+
 article.page table.dates td {
   border: 1px solid var(--crimson-soft);
   background-color: var(--cream-light);
