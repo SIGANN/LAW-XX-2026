@@ -12,7 +12,7 @@ Underline page (see for Zoom and Gather Town links): https://underline.io/events
 
 |8:45–9:00 |*Opening Remarks*
 
-|9:00–9:45 |*link:invited.html#de-marneffe[Keynote: Separating signal from noise: Annotation errors and alternative interpretations]* (Marie-Catherine de Marneffe)
+|9:00–9:45 |*link:invited.html#de-marneffe[Keynote: Separating signal from noise: Annotation errors and alternative interpretations]* (Marie-Catherine de Marneffe) — link:static/slides_keynote1.pdf[Slides]
 
 |9:45–10:30 a|*Oral Session 1: Annotating with LLMs — Errors & Disagreement (Special Theme)*
 
